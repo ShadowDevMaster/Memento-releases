@@ -1,0 +1,45 @@
+name: Manifest
+
+# Fires only once a release leaves draft. electron-builder publishes here as a draft, so this
+# ordering is what stops latest.json from advertising a build nobody has checked yet.
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Release tag to rebuild the manifest from (blank = latest)'
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Rebuild latest.json
+        run: node scripts/build-manifest.mjs ${{ github.event.release.tag_name || inputs.tag }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet latest.json; then
+            echo "latest.json already current, nothing to commit"
+            exit 0
+          fi
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add latest.json
+          git commit -m "chore: latest.json for ${{ github.event.release.tag_name || inputs.tag }}"
+          git push

@@ -1,0 +1,11 @@
+# Nothing is built here — this repository only carries the manifest and documentation.
+# Release binaries live in GitHub Releases, never in git.
+*.exe
+*.zip
+*.blockmap
+latest.yml
+
+node_modules/
+tmp/
+.DS_Store
+Thumbs.db

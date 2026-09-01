@@ -1,0 +1,193 @@
+MEMENTO — END USER LICENSE AGREEMENT
+
+Version 1.0
+Last updated: 1 September 2026
+
+IMPORTANT — READ CAREFULLY. This End User License Agreement (the "Agreement")
+is a legal agreement between you, either an individual or a single legal
+entity ("you"), and k2-studio ("we", "us"), the author and copyright holder of
+the Memento screen recording software ("Memento", the "Software").
+
+By installing, copying or otherwise using the Software you agree to be bound
+by this Agreement. If you do not agree, do not install or use the Software.
+
+
+1. DEFINITIONS
+
+1.1 "Software" means the Memento application in object-code form, including
+    its installer, bundled resources, documentation and any updates we make
+    available to you.
+
+1.2 "Trial Version" means the Software used without a valid License Key.
+
+1.3 "License Key" means the credential we issue to you upon purchase that
+    unlocks the full version of the Software.
+
+1.4 "Recordings" means the video, audio and image files you create using the
+    Software.
+
+
+2. GRANT OF LICENSE
+
+2.1 Subject to your compliance with this Agreement, we grant you a personal,
+    non-exclusive, non-transferable, revocable license to install and use the
+    Software.
+
+2.2 This is a license, not a sale. We retain all right, title and interest in
+    and to the Software.
+
+2.3 A purchased License Key entitles a single named user to install and use
+    the Software on up to three (3) devices that the user personally controls.
+    You may not share a License Key with any other person.
+
+2.4 The Trial Version may be used free of charge for evaluation purposes for a
+    period of fourteen (14) days from first launch. After that period you must
+    either purchase a License Key or stop using the Software and uninstall it.
+
+2.5 We may limit or disable features of the Trial Version, and may end the
+    trial period, without that constituting a defect in the Software.
+
+
+3. YOUR RECORDINGS
+
+3.1 You own your Recordings. We claim no right, title or interest in anything
+    you create with the Software.
+
+3.2 The Software operates entirely on your device. It contains no telemetry,
+    analytics or network communication of any kind, and it does not transmit
+    your Recordings, your settings or any other data to us or to any third
+    party.
+
+3.3 You are solely responsible for ensuring that your use of the Software
+    complies with applicable law, including laws governing the recording of
+    screens, audio, persons and confidential information, and for obtaining
+    any consent that such law requires.
+
+
+4. RESTRICTIONS
+
+Except to the extent that applicable law expressly prohibits such a
+restriction, you may not:
+
+4.1 reverse engineer, decompile or disassemble the Software, or otherwise
+    attempt to derive its source code;
+
+4.2 modify, adapt, translate or create derivative works of the Software;
+
+4.3 sell, resell, rent, lease, lend, sublicense, distribute or otherwise make
+    the Software available to any third party;
+
+4.4 circumvent, disable or interfere with any licensing, trial-period or
+    protection mechanism of the Software, or use a License Key that was not
+    issued to you;
+
+4.5 remove, obscure or alter any copyright, trademark or other proprietary
+    notice contained in the Software; or
+
+4.6 use the Software to develop a competing product.
+
+Sections 4.1 and 4.2 do not apply to the third-party components described in
+Section 5, which remain governed by their own licenses.
+
+
+5. THIRD-PARTY COMPONENTS
+
+5.1 The Software incorporates third-party components that are licensed to you
+    under their own terms, not under this Agreement. Those terms prevail over
+    this Agreement in respect of those components. The complete list, together
+    with the applicable licenses and the location of the corresponding source
+    code, is provided in the THIRD-PARTY-NOTICES file distributed with the
+    Software.
+
+5.2 The Software bundles an unmodified build of FFmpeg licensed under the GNU
+    Lesser General Public License version 3.0 ("LGPL-3.0"). FFmpeg is executed
+    as a separate process and is never linked into the Software. You may
+    replace the bundled FFmpeg binaries in the resources directory of the
+    application with your own LGPL-compatible build. The full text of the
+    LGPL-3.0 is distributed with the Software, and the corresponding FFmpeg
+    source is available as stated in the THIRD-PARTY-NOTICES file.
+
+
+6. UPDATES AND SUPPORT
+
+6.1 We may, but are not obliged to, make updates, bug fixes or new versions of
+    the Software available. Any such update is governed by this Agreement
+    unless it is accompanied by separate terms.
+
+6.2 A purchased License Key is valid for the major version for which it was
+    issued. A future major version may require a new or upgraded License Key.
+
+6.3 This Agreement does not entitle you to any particular level of technical
+    support.
+
+
+7. TERM AND TERMINATION
+
+7.1 This Agreement takes effect when you first install the Software and
+    continues until terminated.
+
+7.2 It terminates automatically and without notice if you breach any of its
+    terms.
+
+7.3 On termination you must stop using the Software and remove all copies of
+    it from your devices. Your Recordings are unaffected and remain yours.
+
+7.4 Sections 3.1, 4, 8, 9 and 10 survive termination.
+
+
+8. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+WE DO NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT
+ANY RECORDING WILL COMPLETE SUCCESSFULLY, OR THAT ANY RECORDING WILL BE FREE
+OF DEFECTS. YOU ARE RESPONSIBLE FOR VERIFYING THE RESULT OF ANY RECORDING THAT
+MATTERS TO YOU, AND FOR MAINTAINING BACKUPS OF YOUR DATA.
+
+
+9. LIMITATION OF LIABILITY
+
+9.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE
+    FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES,
+    OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, RECORDINGS OR GOODWILL, ARISING
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE, HOWEVER CAUSED AND UNDER ANY
+    THEORY OF LIABILITY.
+
+9.2 OUR TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE
+    AMOUNT YOU ACTUALLY PAID FOR THE SOFTWARE IN THE TWELVE MONTHS PRECEDING
+    THE EVENT GIVING RISE TO THE CLAIM, OR ZERO IF YOU USE THE TRIAL VERSION.
+
+9.3 Nothing in this Agreement excludes or limits liability that cannot be
+    excluded or limited under applicable law, including liability for death or
+    personal injury caused by negligence, or for fraud. If you are a consumer,
+    your statutory rights are not affected.
+
+
+10. GENERAL
+
+10.1 This Agreement is governed by the laws of Ukraine, without regard
+     to its conflict-of-law rules. The courts of Ukraine have exclusive
+     jurisdiction over any dispute arising from it, save that a consumer may
+     also bring proceedings in the courts of their place of residence.
+
+10.2 If any provision of this Agreement is held to be unenforceable, that
+     provision shall be modified to the minimum extent necessary to make it
+     enforceable, and the remaining provisions shall remain in full force.
+
+10.3 This Agreement constitutes the entire agreement between you and us
+     concerning the Software and supersedes all prior communications.
+
+10.4 We may issue a revised version of this Agreement for future releases of
+     the Software. The version distributed with the release you install
+     governs your use of that release.
+
+
+11. CONTACT
+
+k2-studio
+[CONTACT EMAIL]
+
+
+Copyright (c) 2026 k2-studio. All rights reserved.

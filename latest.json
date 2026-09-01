@@ -1,0 +1,22 @@
+{
+  "version": "0.0.0",
+  "publishedAt": null,
+  "notesUrl": "https://github.com/ShadowDevMaster/Memento-releases/releases",
+  "downloadPage": "https://github.com/ShadowDevMaster/Memento-releases/releases/latest",
+  "artifacts": {
+    "win-x64": {
+      "setup": {
+        "name": null,
+        "url": null,
+        "size": 0,
+        "sha256": null
+      },
+      "portable": {
+        "name": null,
+        "url": null,
+        "size": 0,
+        "sha256": null
+      }
+    }
+  }
+}
